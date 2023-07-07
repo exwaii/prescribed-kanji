@@ -1,6 +1,6 @@
 # prescribed kanji anki deck
 
-Based on the [2000 Japanese continuers prescribed kanji](https://educationstandards.nsw.edu.au/wps/wcm/connect/9a323ddb-dc9a-4e19-8142-5a896062e70e/japanese-continuers-vocab.pdf?MOD=AJPERES&CVID=)
+Based on the [2000 Japanese continuers prescribed kanji](https://educationstandards.nsw.edu.au/wps/wcm/connect/9a323ddb-dc9a-4e19-8142-5a896062e70e/japanese-continuers-vocab.pdf?MOD=AJPERES&CVID=) (last page)
 
 `Prescribed Kanji.apkg` is the Anki deck, the rest of the files is code used to generate the deck.
 
