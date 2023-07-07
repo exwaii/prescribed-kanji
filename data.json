@@ -1,0 +1,572 @@
+[
+    {
+        "kanji": "大",
+        "kun": "おお、おおきい",
+        "on": "ダイ、タイ",
+        "meaning": "big"
+    },
+    {
+        "kanji": "小",
+        "kun": "ちい、ちいさい、こ、お",
+        "on": "ショウ",
+        "meaning": "small"
+    },
+    {
+        "kanji": "新",
+        "kun": "あら、あたら、あたらしい、あらた、にい",
+        "on": "シン",
+        "meaning": "new"
+    },
+    {
+        "kanji": "古",
+        "kun": "ふる、ふるい",
+        "on": "コ",
+        "meaning": "old"
+    },
+    {
+        "kanji": "高",
+        "kun": "たか、たかい、たかさ、たかまる、たかぶる、たかめる",
+        "on": "コウ",
+        "meaning": "high"
+    },
+    {
+        "kanji": "安",
+        "kun": "やす、やすい、やすまる、やすらか",
+        "on": "アン",
+        "meaning": "peaceful, inexpensive"
+    },
+    {
+        "kanji": "多",
+        "kun": "おお、おおい、おおく",
+        "on": "タ",
+        "meaning": "many"
+    },
+    {
+        "kanji": "少",
+        "kun": "すく、すこ、すくない、すこし",
+        "on": "ショウ",
+        "meaning": "little"
+    },
+    {
+        "kanji": "長",
+        "kun": "なが、ながい",
+        "on": "チョウ",
+        "meaning": "long, chief"
+    },
+    {
+        "kanji": "近",
+        "kun": "ちか、ちかい、ちかく",
+        "on": "キン",
+        "meaning": "near, recent"
+    },
+    {
+        "kanji": "楽",
+        "kun": "たの、たのしむ、たのしい、たのしみ",
+        "on": "ガク、ラク",
+        "meaning": "pleasure, comfortable, music"
+    },
+    {
+        "kanji": "好",
+        "kun": "この、このむ、このみ、す、すき、すく、よ、よい、い、いい",
+        "on": "コウ",
+        "meaning": "like, favorable"
+    },
+    {
+        "kanji": "赤",
+        "kun": "あか、あかい、あからむ、あからめる",
+        "on": "セキ、シャク",
+        "meaning": "red"
+    },
+    {
+        "kanji": "白",
+        "kun": "しろ、しら、しろい",
+        "on": "ハク、ビャク",
+        "meaning": "white"
+    },
+    {
+        "kanji": "黒",
+        "kun": "くろい、くろ",
+        "on": "コク",
+        "meaning": "black"
+    },
+    {
+        "kanji": "広",
+        "kun": "ひろ、ひろまる、ひろめる、ひろがる、ひろげる、ひろい、ひろさ",
+        "on": "コウ",
+        "meaning": "wide"
+    },
+    {
+        "kanji": "青",
+        "kun": "あお、あおい",
+        "on": "セイ、ショウ",
+        "meaning": "blue"
+    },
+    {
+        "kanji": "正",
+        "kun": "ただ、ただしい、ただす、まさ、まさに",
+        "on": "セイ、ショウ",
+        "meaning": "right, correct"
+    },
+    {
+        "kanji": "茶",
+        "kun": "",
+        "on": "チャ、サ",
+        "meaning": "tea"
+    },
+    {
+        "kanji": "目",
+        "kun": "め、ま",
+        "on": "モク",
+        "meaning": "eye, item"
+    },
+    {
+        "kanji": "口",
+        "kun": "くち",
+        "on": "コウ、ク",
+        "meaning": "mouth"
+    },
+    {
+        "kanji": "耳",
+        "kun": "みみ",
+        "on": "ジ",
+        "meaning": "ear"
+    },
+    {
+        "kanji": "手",
+        "kun": "て、た",
+        "on": "シュ、ズ",
+        "meaning": "hand"
+    },
+    {
+        "kanji": "体",
+        "kun": "からだ",
+        "on": "タイ、テイ",
+        "meaning": "body, form"
+    },
+    {
+        "kanji": "心",
+        "kun": "こころ",
+        "on": "シン",
+        "meaning": "heart"
+    },
+    {
+        "kanji": "元",
+        "kun": "もと",
+        "on": "ゲン、ガン",
+        "meaning": "origin"
+    },
+    {
+        "kanji": "気",
+        "kun": "",
+        "on": "キ、ケ",
+        "meaning": "gas, spirit"
+    },
+    {
+        "kanji": "足",
+        "kun": "あし、た、たる、たりる、たす",
+        "on": "ソク",
+        "meaning": "foot, suffice, add"
+    },
+    {
+        "kanji": "私",
+        "kun": "わたし、わたくし",
+        "on": "シ",
+        "meaning": "I, private"
+    },
+    {
+        "kanji": "家",
+        "kun": "いえ、や",
+        "on": "カ、ケ",
+        "meaning": "house, family"
+    },
+    {
+        "kanji": "族",
+        "kun": "",
+        "on": "ゾク",
+        "meaning": "family,tribe"
+    },
+    {
+        "kanji": "父",
+        "kun": "ちち",
+        "on": "フ",
+        "meaning": "father"
+    },
+    {
+        "kanji": "母",
+        "kun": "はは",
+        "on": "ボ",
+        "meaning": "mother"
+    },
+    {
+        "kanji": "兄",
+        "kun": "あに",
+        "on": "ケイ、キョウ",
+        "meaning": "older brother"
+    },
+    {
+        "kanji": "姉",
+        "kun": "あね",
+        "on": "シ",
+        "meaning": "older sister"
+    },
+    {
+        "kanji": "弟",
+        "kun": "おとうと",
+        "on": "テイ、ダイ、デ",
+        "meaning": "younger brother"
+    },
+    {
+        "kanji": "妹",
+        "kun": "いもうと",
+        "on": "マイ",
+        "meaning": "younger sister"
+    },
+    {
+        "kanji": "子",
+        "kun": "こ",
+        "on": "シ、ス",
+        "meaning": "child, noun suffix"
+    },
+    {
+        "kanji": "達",
+        "kun": "たち",
+        "on": "タツ",
+        "meaning": "attain, suffix for plural"
+    },
+    {
+        "kanji": "男",
+        "kun": "おとこ",
+        "on": "ダン、ナン",
+        "meaning": "man"
+    },
+    {
+        "kanji": "女",
+        "kun": "おんな、め",
+        "on": "ジョ、ニョ、ニョウ",
+        "meaning": "woman"
+    },
+    {
+        "kanji": "友",
+        "kun": "とも",
+        "on": "ユウ",
+        "meaning": "friend"
+    },
+    {
+        "kanji": "海",
+        "kun": "うみ",
+        "on": "カイ",
+        "meaning": "sea, ocean"
+    },
+    {
+        "kanji": "山",
+        "kun": "やま",
+        "on": "サン",
+        "meaning": "mountain"
+    },
+    {
+        "kanji": "川",
+        "kun": "かわ",
+        "on": "セン",
+        "meaning": "river"
+    },
+    {
+        "kanji": "田",
+        "kun": "た",
+        "on": "デン",
+        "meaning": "rice field"
+    },
+    {
+        "kanji": "天",
+        "kun": "あめ、あま",
+        "on": "テン",
+        "meaning": "heaven"
+    },
+    {
+        "kanji": "雨",
+        "kun": "あめ、あま",
+        "on": "ウ",
+        "meaning": "rain"
+    },
+    {
+        "kanji": "雪",
+        "kun": "ゆき",
+        "on": "セツ",
+        "meaning": "snow"
+    },
+    {
+        "kanji": "花",
+        "kun": "はな",
+        "on": "カ",
+        "meaning": "flower"
+    },
+    {
+        "kanji": "春",
+        "kun": "はる",
+        "on": "シュン",
+        "meaning": "spring"
+    },
+    {
+        "kanji": "夏",
+        "kun": "なつ",
+        "on": "カ、ゲ",
+        "meaning": "summer"
+    },
+    {
+        "kanji": "秋",
+        "kun": "あき",
+        "on": "シュウ",
+        "meaning": "autumn"
+    },
+    {
+        "kanji": "冬",
+        "kun": "ふゆ",
+        "on": "トウ",
+        "meaning": "winter"
+    },
+    {
+        "kanji": "地",
+        "kun": "",
+        "on": "チ、ジ",
+        "meaning": "ground, place, base, earth, land"
+    },
+    {
+        "kanji": "空",
+        "kun": "そら、あ、から、むな、あく、あき、あける、から、むなしい、むなしさ",
+        "on": "クウ",
+        "meaning": "sky, air, empty"
+    },
+    {
+        "kanji": "島",
+        "kun": "しま",
+        "on": "トウ",
+        "meaning": "island"
+    },
+    {
+        "kanji": "百",
+        "kun": "",
+        "on": "ヒャク",
+        "meaning": "hundred"
+    },
+    {
+        "kanji": "千",
+        "kun": "ち",
+        "on": "セン",
+        "meaning": "thousand"
+    },
+    {
+        "kanji": "万",
+        "kun": "",
+        "on": "マン、バン",
+        "meaning": "ten thousand"
+    },
+    {
+        "kanji": "人",
+        "kun": "ひと",
+        "on": "ジン、ニン",
+        "meaning": "human being, person"
+    },
+    {
+        "kanji": "才",
+        "kun": "",
+        "on": "サイ",
+        "meaning": "talent, counter for age"
+    },
+    {
+        "kanji": "円",
+        "kun": "まる、まるい",
+        "on": "エン",
+        "meaning": "circle, yen"
+    },
+    {
+        "kanji": "番",
+        "kun": "",
+        "on": "バン",
+        "meaning": "numerical order, watch"
+    },
+    {
+        "kanji": "本",
+        "kun": "もと",
+        "on": "ホン",
+        "meaning": "basis, book, this"
+    },
+    {
+        "kanji": "員",
+        "kun": "",
+        "on": "イン",
+        "meaning": "member"
+    },
+    {
+        "kanji": "仕",
+        "kun": "つか、つかえる",
+        "on": "シ、ジ",
+        "meaning": "serve, do"
+    },
+    {
+        "kanji": "事",
+        "kun": "こと",
+        "on": "ジ、ズ",
+        "meaning": "affair, abstract thing"
+    },
+    {
+        "kanji": "社",
+        "kun": "やしろ",
+        "on": "シャ",
+        "meaning": "company, society"
+    },
+    {
+        "kanji": "所",
+        "kun": "ところ",
+        "on": "ショ",
+        "meaning": "place"
+    },
+    {
+        "kanji": "町",
+        "kun": "まち",
+        "on": "チョウ",
+        "meaning": "town"
+    },
+    {
+        "kanji": "駅",
+        "kun": "",
+        "on": "エキ",
+        "meaning": "station"
+    },
+    {
+        "kanji": "店",
+        "kun": "みせ",
+        "on": "テン",
+        "meaning": "shop, store"
+    },
+    {
+        "kanji": "京",
+        "kun": "",
+        "on": "キョウ、ケイ、キン",
+        "meaning": "capital"
+    },
+    {
+        "kanji": "都",
+        "kun": "みやこ",
+        "on": "ト、ツ",
+        "meaning": "capital (city), metropolis"
+    },
+    {
+        "kanji": "道",
+        "kun": "みち",
+        "on": "ドウ、トウ",
+        "meaning": "way, street, road"
+    },
+    {
+        "kanji": "県",
+        "kun": "",
+        "on": "ケン",
+        "meaning": "prefecture"
+    },
+    {
+        "kanji": "市",
+        "kun": "いち",
+        "on": "シ",
+        "meaning": "city, market"
+    },
+    {
+        "kanji": "区",
+        "kun": "",
+        "on": "ク",
+        "meaning": "district, ward"
+    },
+    {
+        "kanji": "州",
+        "kun": "す",
+        "on": "シュウ",
+        "meaning": "state"
+    },
+    {
+        "kanji": "場",
+        "kun": "ば",
+        "on": "ジョウ",
+        "meaning": "place"
+    },
+    {
+        "kanji": "公",
+        "kun": "おおやけ",
+        "on": "コウ",
+        "meaning": "public, official"
+    },
+    {
+        "kanji": "園",
+        "kun": "その",
+        "on": "エン",
+        "meaning": "garden"
+    },
+    {
+        "kanji": "寺",
+        "kun": "てら",
+        "on": "ジ",
+        "meaning": "buddhist temple"
+    },
+    {
+        "kanji": "屋",
+        "kun": "や",
+        "on": "オク",
+        "meaning": "house, small shop"
+    },
+    {
+        "kanji": "上",
+        "kun": "うえ、うわ、かみ、あ、あげる、あがる、のぼ、のぼる",
+        "on": "ジョウ、ショウ",
+        "meaning": "up"
+    },
+    {
+        "kanji": "下",
+        "kun": "した、しも、さ、さがる、さげる、くだ、くだる、ください、お、おろす、おりる",
+        "on": "カ、ゲ",
+        "meaning": "down"
+    },
+    {
+        "kanji": "中",
+        "kun": "なか",
+        "on": "チュウ",
+        "meaning": "middle, in"
+    },
+    {
+        "kanji": "外",
+        "kun": "そと、ほか、はず、はずす、はずれる",
+        "on": "ガイ、ゲ",
+        "meaning": "outside"
+    },
+    {
+        "kanji": "左",
+        "kun": "ひだり",
+        "on": "サ",
+        "meaning": "left"
+    },
+    {
+        "kanji": "右",
+        "kun": "みぎ",
+        "on": "ウ、ユウ",
+        "meaning": "right"
+    },
+    {
+        "kanji": "東",
+        "kun": "ひがし",
+        "on": "トウ",
+        "meaning": "east"
+    },
+    {
+        "kanji": "西",
+        "kun": "にし",
+        "on": "セイ、サイ",
+        "meaning": "west"
+    },
+    {
+        "kanji": "南",
+        "kun": "みなみ",
+        "on": "ナン",
+        "meaning": "south"
+    },
+    {
+        "kanji": "北",
+        "kun": "きた",
+        "on": "ホク",
+        "meaning": "north"
+    }
+]
